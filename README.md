@@ -12,7 +12,7 @@ All 3D assets, structural designs, and meshes hosted in this repository are prop
 * **Viewing vs. Rights:** While this repository is publicly accessible to support cross-origin browser rendering via WebGL / `<model-viewer>`, **no public license is granted** to download, slice, 3D print, reproduce, or commercially distribute these files or any physical products derived from them.
 * **Commercial Restrictions:** The designs hosted here are strictly protected under applicable copyright laws. Physical manufacturing, retail sales, and unauthorized digital redistribution are expressly forbidden.
 
-For full legal terms, refer to the [`LICENSE`](./LICENSE) file.
+For full legal terms, refer to the LICENSE file.
 
 ---
 
