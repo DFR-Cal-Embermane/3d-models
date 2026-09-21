@@ -1,1 +1,20 @@
+PROPRIETARY DIGITAL ASSET & COMMERCIAL DESIGN LICENSE
 
+Copyright (c) 2026 Dragon Forged Relics LLC. All rights reserved.
+
+1. RESERVATION OF RIGHTS:
+All digital models, 3D meshes, textures, geometry, assemblies, and associated files contained within this repository are the exclusive proprietary intellectual property of Dragon Forged Relics LLC. All rights not expressly granted herein are reserved.
+
+2. HOSTING & VIEWING GRANT:
+The digital assets in this repository are published publicly solely to facilitate real-time 3D web rendering, previewing, and interactive configuration on authorized Dragon Forged Relics platforms. 
+
+3. RESTRICTIONS:
+Without prior written authorization from Dragon Forged Relics LLC, you are strictly prohibited from:
+- Downloading, extracting, distributing, mirroring, or republishing these files or any derivative representations thereof.
+- Manufacturing, 3D printing (additive manufacturing), injection molding, casting, or fabricating physical products derived in whole or in part from these digital assets.
+- Selling, licensing, leasing, sublicensing, or commercially exploiting the digital files, meshes, renders, or any physical items generated from them.
+- Reverse-engineering, remodeling, or adapting these designs for use in competitive products, commercial stores, digital marketplaces, or crowdfunding campaigns.
+
+4. COMMERCIAL INQUIRIES & PERMISSIONS:
+For inquiries regarding commercial licensing, retail distribution, or custom design partnerships, please contact:
+Dragon Forged Relics LLC
